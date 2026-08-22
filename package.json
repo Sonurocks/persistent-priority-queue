@@ -1,0 +1,11 @@
+{
+  "name": "persistent-priority-queue",
+  "version": "1.0.0",
+  "description": "A persistent Double-Ended Priority Queue implemented in Node.js",
+  "main": "module.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
